@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://bov6hecuwtg4c"]
+
+[ext_resource type="Texture2D" uid="uid://ffqii0aowd0n" path="res://Art Assets/Pizza.png" id="1_lhsad"]
+
+[node name="Pizza" type="Sprite2D"]
+position = Vector2(-39, -7)
+scale = Vector2(0.5625, 0.5625)
+texture = ExtResource("1_lhsad")

@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://cjlgg1l43d7ib"]
+
+[ext_resource type="Texture2D" uid="uid://chfll0w8ownmi" path="res://Art Assets/ExplosiveBarrel.png" id="1_mvfkx"]
+
+[node name="ExplosiveBarrel" type="Sprite2D"]
+position = Vector2(56, 35)
+scale = Vector2(0.555556, 0.555556)
+texture = ExtResource("1_mvfkx")

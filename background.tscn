@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://wp877d1fvtrj"]
+
+[ext_resource type="Texture2D" uid="uid://cx61ff37nnxxb" path="res://Art Assets/Background.png" id="1_jmgt5"]
+
+[node name="Background" type="Sprite2D"]
+z_index = -5
+texture = ExtResource("1_jmgt5")
